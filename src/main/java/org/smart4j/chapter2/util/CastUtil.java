@@ -1,4 +1,4 @@
-package org.smart4j.chapter2test.util;
+package org.smart4j.chapter2.util;
 
 /**
  * 转型操作工具类

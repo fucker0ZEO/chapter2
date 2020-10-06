@@ -1,4 +1,4 @@
-package org.smart4j.chapter2test.util;
+package org.smart4j.chapter2.util;
 
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
